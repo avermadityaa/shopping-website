@@ -1,2 +1,2 @@
 # shopping-website
-It is an ecommerce website
+It is a responsive ecommerce website
