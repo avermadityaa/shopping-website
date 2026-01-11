@@ -1,2 +1,2 @@
-# shopping-website
+# ecommerce-website
 It is a responsive ecommerce website
